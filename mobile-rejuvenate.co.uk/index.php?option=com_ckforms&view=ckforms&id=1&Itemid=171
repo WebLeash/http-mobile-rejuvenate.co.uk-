@@ -1,0 +1,289 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" dir="ltr" >
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="robots" content="index, follow" />
+  <meta name="keywords" content="joomla, Joomla" />
+  <meta name="description" content="Joomla! - the dynamic portal engine and content management system" />
+  <meta name="generator" content="Joomla! 1.5 - Open Source Content Management" />
+  <title>Competition</title>
+  <link href="/templates/yoo_level/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+  <link rel="stylesheet" href="/components/com_ckforms/css/calendar.css" type="text/css" />
+  <link rel="stylesheet" href="/components/com_ckforms/css/ckforms.css" type="text/css" />
+  <link rel="stylesheet" href="/components/com_ckforms/css/tips.css" type="text/css" />
+  <link rel="stylesheet" href="/components/com_ckforms/js/theme/classic/formcheck.css" type="text/css" />
+  <link rel="stylesheet" href="http://mobile-rejuvenate.co.uk/plugins/system/yoo_effects/lightbox/shadowbox.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/yoo_level/css/reset.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/yoo_level/css/layout.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/yoo_level/css/typography.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/yoo_level/css/menus.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/yoo_level/css/modules.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/yoo_level/css/system.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/yoo_level/css/extensions.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/yoo_level/css/pink/pink-layout.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/yoo_level/css/custom.css" type="text/css" />
+  <style type="text/css">
+    <!--
+.wrapper { width: 900px; }
+
+    -->
+  </style>
+  <script type="text/javascript" src="/templates/yoo_level/warp/libraries/jquery/jquery.js"></script>
+  <script type="text/javascript" src="/media/system/js/mootools.js"></script>
+  <script type="text/javascript" src="/templates/yoo_level/warp/js/warp.js"></script>
+  <script type="text/javascript" src="/templates/yoo_level/warp/js/accordionmenu.js"></script>
+  <script type="text/javascript" src="/templates/yoo_level/js/dropdownmenu.js"></script>
+  <script type="text/javascript" src="/templates/yoo_level/js/template.js"></script>
+  <script type="text/javascript">
+var Warp = Warp || {};Warp.Settings = {"color":"pink","itemColor":null};
+  </script>
+  <script type="text/javascript" src="/media/system/js/mootools.js"></script>
+  <script type="text/javascript" src="/components/com_ckforms/js/calendar.js"></script>
+  <script type="text/javascript" src="/components/com_ckforms/js/formcheck.js"></script>
+  <script type="text/javascript">var YOOeffects = { url: 'http://mobile-rejuvenate.co.uk/plugins/system/yoo_effects/lightbox/' };</script>
+<script type="text/javascript" src="http://mobile-rejuvenate.co.uk/plugins/system/yoo_effects/yoo_effects.js.php?lb=1&amp;re=1&amp;sl=1"></script>
+
+<link rel="apple-touch-icon" href="/templates/yoo_level/apple_touch_icon.png" />
+</head>
+
+<body id="page" class="yoopage   ">
+
+	
+	<div id="page-body">
+		<div class="page-body-t">
+			<div class="wrapper floatholder">
+				
+				<div id="header">
+		
+					<div id="toolbar">
+						<div class="toolbar-1">
+							<div class="toolbar-2">
+										
+																
+																<div id="date">
+									Sunday, 17 May 2020								</div>
+																
+										
+							</div>
+						</div>
+					</div>
+					
+					<div id="headerbar">
+						<div class="floatbox ie_fix_floats">
+													</div>
+					</div>
+					
+					<div id="menubar">
+						<div class="menubar-1">
+							<div class="menubar-2"></div>
+						</div>
+					</div>
+					
+							
+					<div id="logo">
+						<a href="/index.php" title="Home"><img class="correct-png" src="/images/yootheme/logo.png"  alt="Logo" /></a>					</div>
+									
+								
+										<div id="menu">
+						<ul class="menu"><li class="level1 item1 first"><a href="http://mobile-rejuvenate.co.uk/" class="level1 item1 first"><span class="bg">Home</span></a></li><li class="level1 item2 parent"><a href="#" class="level1 item2 parent"><span class="bg">Services</span></a><ul class="level2"><li class="level2 item1 first"><a href="/index.php?option=com_content&amp;view=article&amp;id=71&amp;Itemid=192" class="level2 item1 first"><span class="bg">Wrinkle Relaxing Injections</span></a></li><li class="level2 item2"><a href="/index.php?option=com_content&amp;view=article&amp;id=79&amp;Itemid=193" class="level2 item2"><span class="bg">Hyperhidrosis</span></a></li><li class="level2 item3"><a href="/index.php?option=com_content&amp;view=article&amp;id=84&amp;Itemid=194" class="level2 item3"><span class="bg">ArqueDerma</span></a></li><li class="level2 item4"><a href="/index.php?option=com_content&amp;view=article&amp;id=83&amp;Itemid=195" class="level2 item4"><span class="bg">8 Point lift (Liquid Face Lift)</span></a></li><li class="level2 item5"><a href="/index.php?option=com_content&amp;view=article&amp;id=92&amp;Itemid=196" class="level2 item5"><span class="bg">Dermal Filler</span></a></li><li class="level2 item6"><a href="/index.php?option=com_content&amp;view=article&amp;id=76&amp;Itemid=197" class="level2 item6"><span class="bg">Restylane</span></a></li><li class="level2 item7"><a href="/index.php?option=com_content&amp;view=article&amp;id=103&amp;Itemid=215" class="level2 item7"><span class="bg">Emervel</span></a></li><li class="level2 item8"><a href="/index.php?option=com_content&amp;view=article&amp;id=82&amp;Itemid=198" class="level2 item8"><span class="bg">Juvederm</span></a></li><li class="level2 item9"><a href="/index.php?option=com_content&amp;view=article&amp;id=85&amp;Itemid=199" class="level2 item9"><span class="bg">Radiesse</span></a></li><li class="level2 item10"><a href="/index.php?option=com_content&amp;view=article&amp;id=86&amp;Itemid=200" class="level2 item10"><span class="bg">Belotero</span></a></li><li class="level2 item11"><a href="/index.php?option=com_content&amp;view=article&amp;id=77&amp;Itemid=201" class="level2 item11"><span class="bg">Lip Augmentation</span></a></li><li class="level2 item12"><a href="/index.php?option=com_content&amp;view=article&amp;id=93&amp;Itemid=202" class="level2 item12"><span class="bg">Cheek Enhancements</span></a></li><li class="level2 item13"><a href="/index.php?option=com_content&amp;view=article&amp;id=108&amp;Itemid=218" class="level2 item13"><span class="bg">Tear Trough Correction</span></a></li><li class="level2 item14"><a href="/index.php?option=com_content&amp;view=article&amp;id=66&amp;Itemid=203" class="level2 item14"><span class="bg">Chemical Peels</span></a></li><li class="level2 item15"><a href="/index.php?option=com_content&amp;view=article&amp;id=72&amp;Itemid=204" class="level2 item15"><span class="bg">Genuine Dermaroller</span></a></li><li class="level2 item16"><a href="/index.php?option=com_content&amp;view=article&amp;id=94&amp;Itemid=205" class="level2 item16"><span class="bg">Dermastamp (Removal of Scars)</span></a></li><li class="level2 item17"><a href="/index.php?option=com_content&amp;view=article&amp;id=99&amp;Itemid=211" class="level2 item17"><span class="bg">EDS</span></a></li><li class="level2 item18"><a href="/index.php?option=com_content&amp;view=article&amp;id=100&amp;Itemid=212" class="level2 item18"><span class="bg">Dermaplaning</span></a></li><li class="level2 item19"><a href="/index.php?option=com_content&amp;view=article&amp;id=80&amp;Itemid=206" class="level2 item19"><span class="bg">Skinny Shot</span></a></li><li class="level2 item20"><a href="/index.php?option=com_content&amp;view=article&amp;id=95&amp;Itemid=207" class="level2 item20"><span class="bg">Sclerotherapy</span></a></li><li class="level2 item21"><a href="/index.php?option=com_content&amp;view=article&amp;id=96&amp;Itemid=208" class="level2 item21"><span class="bg">Platelet Rich Plasma (PRP)</span></a></li><li class="level2 item22"><a href="/index.php?option=com_content&amp;view=article&amp;id=104&amp;Itemid=216" class="level2 item22"><span class="bg">Cryotherapy</span></a></li><li class="level2 item23"><a href="/index.php?option=com_content&amp;view=article&amp;id=110&amp;Itemid=220" class="level2 item23"><span class="bg">Vitamin B12 Energy Shot</span></a></li><li class="level2 item24"><a href="/index.php?option=com_content&amp;view=article&amp;id=97&amp;Itemid=209" class="level2 item24"><span class="bg">Travel Vaccines</span></a></li><li class="level2 item25"><a href="/index.php?option=com_content&amp;view=article&amp;id=98&amp;Itemid=210" class="level2 item25"><span class="bg">Prescribing</span></a></li><li class="level2 item26 last"><a href="/index.php?option=com_content&amp;view=article&amp;id=101&amp;Itemid=213" class="level2 item26 last"><span class="bg">Booking/Cancellation Policy</span></a></li></ul></li><li class="level1 item3 parent"><a href="#" class="level1 item3 parent"><span class="bg">Shop</span></a><ul class="level2"><li class="level2 item1 first"><a href="/index.php?option=com_content&amp;view=article&amp;id=68&amp;Itemid=158" class="level2 item1 first"><span class="bg">Cernor | Control Tactics</span></a></li><li class="level2 item2"><a href="/index.php?option=com_content&amp;view=article&amp;id=67&amp;Itemid=159" class="level2 item2"><span class="bg">Endocare | MelaClear</span></a></li><li class="level2 item3"><a href="/index.php?option=com_content&amp;view=article&amp;id=69&amp;Itemid=160" class="level2 item3"><span class="bg">Flavo-C</span></a></li><li class="level2 item4"><a href="/index.php?option=com_content&amp;view=article&amp;id=70&amp;Itemid=164" class="level2 item4"><span class="bg">Skintech</span></a></li><li class="level2 item5"><a href="/index.php?option=com_content&amp;view=article&amp;id=107&amp;Itemid=188" class="level2 item5"><span class="bg">DR SEBAGH</span></a></li><li class="level2 item6"><a href="/index.php?option=com_content&amp;view=article&amp;id=90&amp;Itemid=190" class="level2 item6"><span class="bg">LA Science (hair loss)</span></a></li><li class="level2 item7"><a href="/index.php?option=com_content&amp;view=article&amp;id=91&amp;Itemid=191" class="level2 item7"><span class="bg">Kelco-Cote (Scars and Stretch Marks)</span></a></li><li class="level2 item8 last"><a href="/index.php?option=com_content&amp;view=article&amp;id=109&amp;Itemid=219" class="level2 item8 last"><span class="bg">Whitening Tothpastes‏</span></a></li></ul></li><li class="level1 item4"><a href="/index.php?option=com_content&amp;view=article&amp;id=78&amp;Itemid=175" class="level1 item4"><span class="bg">Gallery</span></a></li><li class="active level1 item5 parent"><a href="#" class="level1 item5 parent active"><span class="bg">Offers</span></a><ul class="level2"><li class="level2 item1 first active current"><a href="/index.php?option=com_ckforms&amp;view=ckforms&amp;id=1&amp;Itemid=171" class="level2 item1 first active current"><span class="bg">Competition</span></a></li><li class="level2 item2"><a href="/index.php?option=com_content&amp;view=article&amp;id=73&amp;Itemid=172" class="level2 item2"><span class="bg">August Offers</span></a></li><li class="level2 item3"><a href="/index.php?option=com_content&amp;view=article&amp;id=75&amp;Itemid=173" class="level2 item3"><span class="bg">Prices</span></a></li><li class="level2 item4 last"><a href="/index.php?option=com_content&amp;view=article&amp;id=87&amp;Itemid=186" class="level2 item4 last"><span class="bg">Faceplan - 0% interest</span></a></li></ul></li><li class="level1 item6 parent"><a href="/index.php?option=com_contact&amp;view=contact&amp;id=3&amp;Itemid=187" class="level1 item6 parent"><span class="bg">Contact</span></a><ul class="level2"><li class="level2 item1 first last"><a href="/index.php?option=com_content&amp;view=article&amp;id=102&amp;Itemid=214" class="level2 item1 first last"><span class="bg">Monthly Rejuvenate Clinics</span></a></li></ul></li><li class="level1 item7"><a href="/index.php?option=com_content&amp;view=article&amp;id=81&amp;Itemid=178" class="level1 item7"><span class="bg">Reviews</span></a></li><li class="level1 item8 last"><a href="/index.php?option=com_content&amp;view=article&amp;id=105&amp;Itemid=217" class="level1 item8 last"><span class="bg">Book-online</span></a></li></ul>					</div>
+										
+										
+				</div>
+				<!-- header end -->
+	
+				<div class="shadow-l">
+					<div class="shadow-r">
+		
+											
+						<div id="middle">
+							<div class="middle-b">
+								<div class="background">
+		
+													
+								<div id="main">
+									<div id="main_container" class="clearfix">
+									
+															
+										<div id="mainmiddle" class="floatbox">
+					
+																		
+											<div id="content">
+												<div id="content_container" class="clearfix">
+												
+					
+																										
+																											
+													<div class="floatbox">
+														
+
+<div class="componentheading">Competition</div>
+
+<script type="text/javascript">
+
+window.addEvent('domready', function(){
+	var myTips = new Tips('.ckform_tooltip1', {
+		initialize:function(){
+			this.fx = new Fx.Style(this.toolTip, 'opacity', {duration: 250, wait: false}).set(0);
+		},
+		onShow: function(toolTip) {
+			this.fx.start(1);
+		},
+		onHide: function(toolTip) {
+			this.fx.start(0);
+		}
+	});
+
+
+	var myForm = new FormCheck('ckform1', {
+		fieldErrorClass : 'error',
+		validateDisabled : true,
+		display : {
+			showErrors : 1,
+			errorsLocation : 3,
+			indicateErrors : 2,
+			tipsPosition : 'right', 
+			addClassErrorToField : true,
+			scrollToFirst : true
+		},
+		alerts : {
+			required:'This field is required.',
+			number:'Please enter a valid number.',
+			email:'Please enter a valid email: <br /><span>E.g. yourname&#64;domain.com</span>',
+			url:'Please enter a valid url: <br /><span>E.g. http://www.domain.com</span>',
+			confirm:'This field is different from %0',
+			length_str:'The length is incorrect, it must be between %0 and %1',
+			lengthmax:'The length is incorrect, it must be at max %0',
+			lengthmin:'The length is incorrect, it must be at least %0',
+			checkbox:'Please check the box',
+			radios:'Please select a radio',
+			select:'Please choose a value'
+		}
+
+	})
+
+	$(document.body).getElements('.captcharefresh').addEvents({
+		'click': function(){
+			if($chk($('captchacode'))) { 
+				$('captchacode').setProperty('src', 'index.php?option=com_ckforms&task=captcha&sid=' + Math.random());
+			}
+		}
+	});
+
+	
+	
+});
+
+</script>
+
+<table class="contentpaneopen" id="ckformcontainer">
+<tr><td>
+  	<p><p style="font-family: " New="New" Roman";="Roman";" font-size:="font-size:" medium;"="medium;"">Please fill in the form below to enter our competition</p></p>
+  
+	<p class="ck_mandatory">Required *</p>
+
+	<form action="index.php?option=com_ckforms&view=ckforms&task=send&id=1" method="post" name="ckform" id="ckform1" class="ckform ">
+    
+        <input name="id" id="id" type="hidden" value="1" />
+
+       
+		<label class="ckCSSlabel " id="Namelbl" for="Name"> Name    	&nbsp;<span class="ck_mandatory">*</span>
+       
+        </label>
+		<input type="text" name="Name" value="" class="validate['required'] inputbox ckCSSinput  "    title="" />
+
+    <p class="ckCSSclear" />
+
+       
+		<label class="ckCSSlabel " id="Emaillbl" for="Email"> Email    	&nbsp;<span class="ck_mandatory">*</span>
+       
+        </label>
+		<input type="text" name="Email" value="" class="validate['required'] inputbox ckCSSinput  "    title="" />
+
+    <p class="ckCSSclear" />
+
+       
+		<label class="ckCSSlabel " id="Addresslbl" for="Address"> Address    	&nbsp;<span class="ck_mandatory">*</span>
+       
+        </label>
+		<input type="text" name="Address" value="" class="validate['required'] inputbox ckCSSinput  "    title="" />
+
+    <p class="ckCSSclear" />
+
+       
+		<label class="ckCSSlabel " id="PostCodelbl" for="PostCode"> Post Code    	&nbsp;<span class="ck_mandatory">*</span>
+       
+        </label>
+		<input type="text" name="PostCode" value="" class="validate['required'] inputbox ckCSSinput  "    title="" />
+
+    <p class="ckCSSclear" />
+
+       
+		<label class="ckCSSlabel " id="PhoneNumberlbl" for="PhoneNumber"> Phone Number    	&nbsp;<span class="ck_mandatory">*</span>
+       
+        </label>
+		<input type="text" name="PhoneNumber" value="" class="validate['required'] inputbox ckCSSinput  "    title="" />
+
+    <p class="ckCSSclear" />
+
+
+	<div class="captchaCont">
+        <img id="captchacode" class="captchacode" src="/index.php?option=com_ckforms&task=captcha&sid=c4ce9d9bffcf8ba3357da92fd49c2457" align="absmiddle"> &nbsp;           
+        <img alt="Refresh Captcha" class="captcharefresh" src='/components/com_ckforms/captcha/images/refresh.gif' align="absmiddle"> &nbsp;
+        <input class="validate['required']" type="text" id="ck_captcha_code" name="ck_captcha_code" />        
+                
+        <div class="error" id="errorck_captcha_code">
+                </div>    
+    </div>
+    
+    <div class="ckBtnCon">
+	    			<input name="submit_bt" id="submit_bt" type="submit" value="Enter"  />
+   			&nbsp;
+    	</div>
+    
+</form>
+
+	<div id="ckpoweredby"><a href="http://ckforms.cookex.eu" target="_blank">Powered by CK Forms</a></div>
+
+</td></tr>
+</table>
+													</div>
+					
+																		
+												</div>
+											</div>
+											<!-- content end -->
+					
+										</div>
+										<!-- mainmiddle end -->
+					
+													
+									</div>
+								</div>
+								<!-- main end -->
+						
+								</div>
+							</div>
+						</div>
+						<!-- middle end -->
+						
+							
+					</div>
+				</div>
+	
+				<div id="footer">
+					<div class="footer-1">
+						<div class="footer-2">
+							<a class="anchor" href="#page"></a>
+							<div style="margin-top: 9px">Validates to <a href="http://validator.w3.org/check?uri=http://demo.yootheme.com/jun09" target="_blank">XHTML 1.0</a> and <a href="http://jigsaw.w3.org/css-validator/validator?uri=http://demo.yootheme.com/jun09" target="_blank">CSS 2.1</a><br />
+<div style="margin-top: 9px"><span style="font-family: Calibri, sans-serif;"><span style="font-size: 14.6667px; line-height: 15.4px;">Rejuvenate takes Copyright very seriously. © 2010.</span></span></div>
+</div>													</div>
+					</div>
+				</div>
+				<!-- footer end -->
+				
+			</div>
+		</div>
+	</div>
+	
+</body>
+</html>

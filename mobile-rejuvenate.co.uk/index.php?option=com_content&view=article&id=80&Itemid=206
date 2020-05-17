@@ -1,0 +1,294 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" dir="ltr" >
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="robots" content="index, follow" />
+  <meta name="keywords" content="joomla, Joomla" />
+  <meta name="title" content="Skinny Shot" />
+  <meta name="author" content="Administrator" />
+  <meta name="description" content="Joomla! - the dynamic portal engine and content management system" />
+  <meta name="generator" content="Joomla! 1.5 - Open Source Content Management" />
+  <title>Skinny Shot</title>
+  <link href="/templates/yoo_level/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+  <link rel="stylesheet" href="http://mobile-rejuvenate.co.uk/plugins/system/yoo_effects/lightbox/shadowbox.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/yoo_level/css/reset.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/yoo_level/css/layout.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/yoo_level/css/typography.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/yoo_level/css/menus.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/yoo_level/css/modules.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/yoo_level/css/system.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/yoo_level/css/extensions.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/yoo_level/css/pink/pink-layout.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/yoo_level/css/custom.css" type="text/css" />
+  <style type="text/css">
+    <!--
+.wrapper { width: 900px; }
+
+    -->
+  </style>
+  <script type="text/javascript" src="/templates/yoo_level/warp/libraries/jquery/jquery.js"></script>
+  <script type="text/javascript" src="/media/system/js/mootools.js"></script>
+  <script type="text/javascript" src="/media/system/js/caption.js"></script>
+  <script type="text/javascript" src="/templates/yoo_level/warp/js/warp.js"></script>
+  <script type="text/javascript" src="/templates/yoo_level/warp/js/accordionmenu.js"></script>
+  <script type="text/javascript" src="/templates/yoo_level/js/dropdownmenu.js"></script>
+  <script type="text/javascript" src="/templates/yoo_level/js/template.js"></script>
+  <script type="text/javascript">
+var Warp = Warp || {};Warp.Settings = {"color":"pink","itemColor":null};
+  </script>
+  <script type="text/javascript">var YOOeffects = { url: 'http://mobile-rejuvenate.co.uk/plugins/system/yoo_effects/lightbox/' };</script>
+<script type="text/javascript" src="http://mobile-rejuvenate.co.uk/plugins/system/yoo_effects/yoo_effects.js.php?lb=1&amp;re=1&amp;sl=1"></script>
+
+<link rel="apple-touch-icon" href="/templates/yoo_level/apple_touch_icon.png" />
+</head>
+
+<body id="page" class="yoopage   ">
+
+	
+	<div id="page-body">
+		<div class="page-body-t">
+			<div class="wrapper floatholder">
+				
+				<div id="header">
+		
+					<div id="toolbar">
+						<div class="toolbar-1">
+							<div class="toolbar-2">
+										
+																
+																<div id="date">
+									Sunday, 17 May 2020								</div>
+																
+										
+							</div>
+						</div>
+					</div>
+					
+					<div id="headerbar">
+						<div class="floatbox ie_fix_floats">
+													</div>
+					</div>
+					
+					<div id="menubar">
+						<div class="menubar-1">
+							<div class="menubar-2"></div>
+						</div>
+					</div>
+					
+							
+					<div id="logo">
+						<a href="/index.php" title="Home"><img class="correct-png" src="/images/yootheme/logo.png"  alt="Logo" /></a>					</div>
+									
+								
+										<div id="menu">
+						<ul class="menu"><li class="level1 item1 first"><a href="http://mobile-rejuvenate.co.uk/" class="level1 item1 first"><span class="bg">Home</span></a></li><li class="active level1 item2 parent"><a href="#" class="level1 item2 parent active"><span class="bg">Services</span></a><ul class="level2"><li class="level2 item1 first"><a href="/index.php?option=com_content&amp;view=article&amp;id=71&amp;Itemid=192" class="level2 item1 first"><span class="bg">Wrinkle Relaxing Injections</span></a></li><li class="level2 item2"><a href="/index.php?option=com_content&amp;view=article&amp;id=79&amp;Itemid=193" class="level2 item2"><span class="bg">Hyperhidrosis</span></a></li><li class="level2 item3"><a href="/index.php?option=com_content&amp;view=article&amp;id=84&amp;Itemid=194" class="level2 item3"><span class="bg">ArqueDerma</span></a></li><li class="level2 item4"><a href="/index.php?option=com_content&amp;view=article&amp;id=83&amp;Itemid=195" class="level2 item4"><span class="bg">8 Point lift (Liquid Face Lift)</span></a></li><li class="level2 item5"><a href="/index.php?option=com_content&amp;view=article&amp;id=92&amp;Itemid=196" class="level2 item5"><span class="bg">Dermal Filler</span></a></li><li class="level2 item6"><a href="/index.php?option=com_content&amp;view=article&amp;id=76&amp;Itemid=197" class="level2 item6"><span class="bg">Restylane</span></a></li><li class="level2 item7"><a href="/index.php?option=com_content&amp;view=article&amp;id=103&amp;Itemid=215" class="level2 item7"><span class="bg">Emervel</span></a></li><li class="level2 item8"><a href="/index.php?option=com_content&amp;view=article&amp;id=82&amp;Itemid=198" class="level2 item8"><span class="bg">Juvederm</span></a></li><li class="level2 item9"><a href="/index.php?option=com_content&amp;view=article&amp;id=85&amp;Itemid=199" class="level2 item9"><span class="bg">Radiesse</span></a></li><li class="level2 item10"><a href="/index.php?option=com_content&amp;view=article&amp;id=86&amp;Itemid=200" class="level2 item10"><span class="bg">Belotero</span></a></li><li class="level2 item11"><a href="/index.php?option=com_content&amp;view=article&amp;id=77&amp;Itemid=201" class="level2 item11"><span class="bg">Lip Augmentation</span></a></li><li class="level2 item12"><a href="/index.php?option=com_content&amp;view=article&amp;id=93&amp;Itemid=202" class="level2 item12"><span class="bg">Cheek Enhancements</span></a></li><li class="level2 item13"><a href="/index.php?option=com_content&amp;view=article&amp;id=108&amp;Itemid=218" class="level2 item13"><span class="bg">Tear Trough Correction</span></a></li><li class="level2 item14"><a href="/index.php?option=com_content&amp;view=article&amp;id=66&amp;Itemid=203" class="level2 item14"><span class="bg">Chemical Peels</span></a></li><li class="level2 item15"><a href="/index.php?option=com_content&amp;view=article&amp;id=72&amp;Itemid=204" class="level2 item15"><span class="bg">Genuine Dermaroller</span></a></li><li class="level2 item16"><a href="/index.php?option=com_content&amp;view=article&amp;id=94&amp;Itemid=205" class="level2 item16"><span class="bg">Dermastamp (Removal of Scars)</span></a></li><li class="level2 item17"><a href="/index.php?option=com_content&amp;view=article&amp;id=99&amp;Itemid=211" class="level2 item17"><span class="bg">EDS</span></a></li><li class="level2 item18"><a href="/index.php?option=com_content&amp;view=article&amp;id=100&amp;Itemid=212" class="level2 item18"><span class="bg">Dermaplaning</span></a></li><li class="level2 item19 active current"><a href="/index.php?option=com_content&amp;view=article&amp;id=80&amp;Itemid=206" class="level2 item19 active current"><span class="bg">Skinny Shot</span></a></li><li class="level2 item20"><a href="/index.php?option=com_content&amp;view=article&amp;id=95&amp;Itemid=207" class="level2 item20"><span class="bg">Sclerotherapy</span></a></li><li class="level2 item21"><a href="/index.php?option=com_content&amp;view=article&amp;id=96&amp;Itemid=208" class="level2 item21"><span class="bg">Platelet Rich Plasma (PRP)</span></a></li><li class="level2 item22"><a href="/index.php?option=com_content&amp;view=article&amp;id=104&amp;Itemid=216" class="level2 item22"><span class="bg">Cryotherapy</span></a></li><li class="level2 item23"><a href="/index.php?option=com_content&amp;view=article&amp;id=110&amp;Itemid=220" class="level2 item23"><span class="bg">Vitamin B12 Energy Shot</span></a></li><li class="level2 item24"><a href="/index.php?option=com_content&amp;view=article&amp;id=97&amp;Itemid=209" class="level2 item24"><span class="bg">Travel Vaccines</span></a></li><li class="level2 item25"><a href="/index.php?option=com_content&amp;view=article&amp;id=98&amp;Itemid=210" class="level2 item25"><span class="bg">Prescribing</span></a></li><li class="level2 item26 last"><a href="/index.php?option=com_content&amp;view=article&amp;id=101&amp;Itemid=213" class="level2 item26 last"><span class="bg">Booking/Cancellation Policy</span></a></li></ul></li><li class="level1 item3 parent"><a href="#" class="level1 item3 parent"><span class="bg">Shop</span></a><ul class="level2"><li class="level2 item1 first"><a href="/index.php?option=com_content&amp;view=article&amp;id=68&amp;Itemid=158" class="level2 item1 first"><span class="bg">Cernor | Control Tactics</span></a></li><li class="level2 item2"><a href="/index.php?option=com_content&amp;view=article&amp;id=67&amp;Itemid=159" class="level2 item2"><span class="bg">Endocare | MelaClear</span></a></li><li class="level2 item3"><a href="/index.php?option=com_content&amp;view=article&amp;id=69&amp;Itemid=160" class="level2 item3"><span class="bg">Flavo-C</span></a></li><li class="level2 item4"><a href="/index.php?option=com_content&amp;view=article&amp;id=70&amp;Itemid=164" class="level2 item4"><span class="bg">Skintech</span></a></li><li class="level2 item5"><a href="/index.php?option=com_content&amp;view=article&amp;id=107&amp;Itemid=188" class="level2 item5"><span class="bg">DR SEBAGH</span></a></li><li class="level2 item6"><a href="/index.php?option=com_content&amp;view=article&amp;id=90&amp;Itemid=190" class="level2 item6"><span class="bg">LA Science (hair loss)</span></a></li><li class="level2 item7"><a href="/index.php?option=com_content&amp;view=article&amp;id=91&amp;Itemid=191" class="level2 item7"><span class="bg">Kelco-Cote (Scars and Stretch Marks)</span></a></li><li class="level2 item8 last"><a href="/index.php?option=com_content&amp;view=article&amp;id=109&amp;Itemid=219" class="level2 item8 last"><span class="bg">Whitening Tothpastes‏</span></a></li></ul></li><li class="level1 item4"><a href="/index.php?option=com_content&amp;view=article&amp;id=78&amp;Itemid=175" class="level1 item4"><span class="bg">Gallery</span></a></li><li class="level1 item5 parent"><a href="#" class="level1 item5 parent"><span class="bg">Offers</span></a><ul class="level2"><li class="level2 item1 first"><a href="/index.php?option=com_ckforms&amp;view=ckforms&amp;id=1&amp;Itemid=171" class="level2 item1 first"><span class="bg">Competition</span></a></li><li class="level2 item2"><a href="/index.php?option=com_content&amp;view=article&amp;id=73&amp;Itemid=172" class="level2 item2"><span class="bg">August Offers</span></a></li><li class="level2 item3"><a href="/index.php?option=com_content&amp;view=article&amp;id=75&amp;Itemid=173" class="level2 item3"><span class="bg">Prices</span></a></li><li class="level2 item4 last"><a href="/index.php?option=com_content&amp;view=article&amp;id=87&amp;Itemid=186" class="level2 item4 last"><span class="bg">Faceplan - 0% interest</span></a></li></ul></li><li class="level1 item6 parent"><a href="/index.php?option=com_contact&amp;view=contact&amp;id=3&amp;Itemid=187" class="level1 item6 parent"><span class="bg">Contact</span></a><ul class="level2"><li class="level2 item1 first last"><a href="/index.php?option=com_content&amp;view=article&amp;id=102&amp;Itemid=214" class="level2 item1 first last"><span class="bg">Monthly Rejuvenate Clinics</span></a></li></ul></li><li class="level1 item7"><a href="/index.php?option=com_content&amp;view=article&amp;id=81&amp;Itemid=178" class="level1 item7"><span class="bg">Reviews</span></a></li><li class="level1 item8 last"><a href="/index.php?option=com_content&amp;view=article&amp;id=105&amp;Itemid=217" class="level1 item8 last"><span class="bg">Book-online</span></a></li></ul>					</div>
+										
+										
+				</div>
+				<!-- header end -->
+	
+				<div class="shadow-l">
+					<div class="shadow-r">
+		
+											
+						<div id="middle">
+							<div class="middle-b">
+								<div class="background">
+		
+													
+								<div id="main">
+									<div id="main_container" class="clearfix">
+									
+															
+										<div id="mainmiddle" class="floatbox">
+					
+																		
+											<div id="content">
+												<div id="content_container" class="clearfix">
+												
+					
+																										
+																											
+													<div class="floatbox">
+														
+
+<div class="joomla ">
+	
+	<div class="article">
+	
+				
+				<div class="headline">
+		
+						<h1 class="title">
+									<a href="/index.php?option=com_content&amp;view=article&amp;id=80:sclerotherapy&amp;Itemid=206">Skinny Shot</a>
+							</h1>
+						
+														
+								<span class="icon email">
+					<a href="/index.php?option=com_mailto&amp;tmpl=component&amp;link=aHR0cDovL21vYmlsZS1yZWp1dmVuYXRlLmNvLnVrL2luZGV4LnBocD9vcHRpb249Y29tX2NvbnRlbnQmdmlldz1hcnRpY2xlJmlkPTgwOnNjbGVyb3RoZXJhcHkmSXRlbWlkPTIwNg==" title="E-mail" onclick="window.open(this.href,'win2','width=400,height=350,menubar=yes,resizable=yes'); return false;"><img src="/templates/yoo_level/images/emailButton.png" alt="E-mail"  /></a>				</span>
+							
+								<span class="icon print">
+					<a href="/index.php?view=article&amp;id=80%3Asclerotherapy&amp;tmpl=component&amp;print=1&amp;layout=default&amp;page=&amp;option=com_content&amp;Itemid=206" title="Print" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/templates/yoo_level/images/printButton.png" alt="Print"  /></a>				</span>
+							
+								<span class="icon pdf">
+					<a href="/index.php?view=article&amp;id=80%3Asclerotherapy&amp;format=pdf&amp;option=com_content&amp;Itemid=206" title="PDF" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/templates/yoo_level/images/pdf_button.png" alt="PDF"  /></a>				</span>
+					
+						
+		</div>
+			
+				
+			
+				
+				
+		<p><span style="font-family: 'Verdana','sans-serif'; font-size: 10pt"><strong><span style="font-family: "><span style="font-family: "><span style="font-family: "> </span></span></span></strong></span></p>
+<p align="left"> </p>
+<p align="left"><strong><span style="color: #800080;">WHAT IS THE SKINNY SHOT?</span></strong></p>
+<p align="left"><span style="color: #800080;"><a id="irc_mil" style="border: 0px currentColor; border-image: none;" href="http://www.google.co.uk/url?sa=i&amp;rct=j&amp;q=&amp;esrc=s&amp;source=images&amp;cd=&amp;cad=rja&amp;uact=8&amp;ved=2ahUKEwiFyYyI34HZAhVFDywKHUTrA70QjRx6BAgAEAY&amp;url=http%3A%2F%2Fthesshh.com%2Fservices%2Fb12b6-mic-injections%2F&amp;psig=AOvVaw3kO3PLOKo8j7UTe6ht1d6r&amp;ust=1517472277503997"><img style="margin-top: 118px;" src="http://thesshh.com/wp-content/uploads/2013/11/skinny-shot.jpg" border="0" alt="Image result for skinny shot" width="304" height="158" /></a><br /></span></p>
+<p><strong> </strong><span style="font-family: "><span style="font-family: "> </span></span></p>
+<p align="left">A FDA approved prescription medicine that when uses correctly alongside a healthy low calorie meal plan and increased physical activity is guaranteed to help shift that unwanted excess weight by working as an appetite suppressant, whilst also proven to improve many indicators of cardiovascular risk.</p>
+<p align="left"> </p>
+<p><strong><span style="font-family: "><span style="font-family: "><span style="font-family: "> </span></span></span></strong></p>
+<p align="left"><strong><span style="color: #800080;"> IS THE SKINNY SHOT SAFE</span></strong><strong><span style="color: #800080;">?</span></strong></p>
+<p><strong> </strong><span style="font-family: "><span style="font-family: "> </span></span></p>
+<p align="left">The medication has been used for some time in several countries 'off label' to effectively control and treat weight loss. The product has passed long and rigorous clinical trials for safety and has recently become the only approved injectable prescrption medicine available in the UK for weight-loss purposes.</p>
+<p align="left">Unlike surgical procedures such as liposuction,The Skinny Shot is virtually painless, requires no post-operative recovery time, requires no heavy bandages or girdles, and no anesthesia is necessary. While many surgical procedures require one to two weeks of recovery, patients undergoing The Skinny Shot  have no interruptions to their daily life, while obtaining a natural cosmetic rejuvenation.</p>
+<p align="left">The results obtained with The Skinny Shot  do vary from patient to patient but can be very dramatic. After completing a series of treatments, generally over a 3-6 week period of time, clients can notice improvement in skin quality, less dimpling of the skin &amp; definite weight reduction…</p>
+<p align="left"> </p>
+<p><strong><span style="font-family: "><span style="font-family: "><span style="font-family: "> </span></span></span></strong></p>
+<p align="left"><strong><strong><span style="color: #800080;">HOW DOES SKINNY SHOT WORK?</span></strong></strong></p>
+<p><strong> </strong><span style="font-family: "><span style="font-family: "> </span></span></p>
+<p align="left">The medication converts the fat stores within your body into energy, resulting in weight-loss. It also steadies and maintains blood glucose levels so that your appetite is suppressed, but your body does not go into starvation mode.</p>
+<p align="left">We at Rejuvenate recommend The Skinny Shot alongside a healthy low calorie diet and you must remain well hydrated. Your metabolism will remain maintained so that no rapid weight gain will occur once you have finished using the Skinny Shot.</p>
+<p align="left"> </p>
+<p align="left"><strong><span style="color: #800080;">HOW IS THE SKINNY SHOT ADMINISTERED?</span></strong></p>
+<p><span style="font-family: "><span style="font-family: "><span style="font-family: "> </span></span></span></p>
+<p style="font-weight: bold;" align="left"><span style="font-weight: normal;">A simple &amp; painless daily tiny injection using a very easy to use dose adjusted pen that is pre-filled with the medication. All you have to do is set the dial to the correct dosage and inject under the skin of the abdomen.</span></p>
+<p align="left">You must follow the administration,dosing and titration instructions provided to you by our medical practitioners in order to minimise the risk of side effects and safely achieve your desired weight-loss goals.</p>
+<p><span style="font-family: "><span style="font-family: "> </span></span></p>
+<p align="left">You will also receive weekly follow-up review calls via telephone and three weekly review appointments with your named medical practitioner to (complimentary at no further cost) in order to monitor and record your weight, blood pressure, dose adjustments and blood glucose levels.</p>
+<p align="left">Your medication will last 3-4 weeks dependent on your individual doseage plan.</p>
+<p align="left"> </p>
+<p><span style="font-family: "><span style="font-family: "><span style="font-family: "> </span></span></span></p>
+<p style="font-weight: bold;" align="left"><span style="color: #800080;"> HOW MUCH WEIGHT LOSS CAN I EXPECT TO LOOSE?</span></p>
+<p style="font-weight: bold;" align="left"><span style="color: #800080;"> </span><span style="font-weight: normal;"> If you follow the instructions provided to you then you can expect to loose between 1-2 stone in 3-6 week period.</span></p>
+<p align="left">We cannot guarantee this for everybody-due to individual differences. However, this has been an average amount lost by our clients who have recently trailed the new weight loss medication.</p>
+<p align="left"> </p>
+<p style="font-weight: bold;" align="left"><span style="color: #800080;">WHAT ARE THE SIDE-EFFECTS OF THE SKINNY SHOT?</span></p>
+<p style="font-weight: bold;" align="left"><span style="font-weight: normal;">All medications have the potential for side effects but this newly approved weight loss medication is remarkedly well tolerated if taken as directed by your appointed medical practitioner.</span></p>
+<p align="left">Some people experience slight nausea to begin with but most people find this soon dissipates with continued use. Other side effects may include dyspepsia and diarrhoea.</p>
+<p align="left">You will receive further information during your consultation,in which we will provide you with all the necessary information regarding this prescription medicine and tips to minimise any possible side effects.</p>
+<p align="left">The majority of our clients who have trailed this medication with our guidance have reported no side effects being experienced.</p>
+<p align="left"> </p>
+<p align="left"><span style="color: #800080; font-weight: bold;"> CAN ANYONE TAKE THE SKINNY SHOT?</span></p>
+<p align="left">NO, a full thorough medical history will be taken and you will receive a thorough consultation with our medical practitioner in order to distinguish if we are able to prescribe the medication for you.</p>
+<p align="left">People who are not able to take such medication include:</p>
+<p align="left"><span style="font-family: SymbolMT; font-size: x-small;">• </span><span style="font-family: SymbolMT; font-size: x-small;"> </span> Clients on diabetic medication</p>
+<p align="left"><span style="font-family: SymbolMT; font-size: x-small;">• </span>Clients on Thyroid medication</p>
+<p align="left"><span style="font-family: SymbolMT; font-size: x-small;">• </span>Clients with Eating Disorders, Body Dysmorphia, or any other mental Ill health issues we may be concerned by</p>
+<p align="left"><span style="font-family: SymbolMT; font-size: x-small;">• </span>Clients with a BMI less than 20</p>
+<p align="left"><span style="font-family: SymbolMT; font-size: x-small;"> • </span>Clients we feel do not qualify for the medication for any other reasons discussed during your individualised consultation</p>
+<p align="left"><span style="font-family: SymbolMT; font-size: x-small;"> • </span>Pregnant and Breast feeding individuals</p>
+<p><span style="font-family: "><span style="font-family: "> </span></span></p>
+<p align="left">Our clients are reviewed and monitored very carefull. If we feel you are loosing too much weight ,your BMI is too Low or we have any other concerns regarding your physical or mental wellbeing  then we reserve the right to discontinue your prescription.</p>
+<p align="left"> </p>
+<p><strong><span style="font-family: "><span style="font-family: "><span style="font-family: "> </span></span></span></strong></p>
+<p align="left"><strong>PATIENT - QUESTIONS &amp; ANSWERS</strong></p>
+<p><strong> </strong></p>
+<p align="left"><strong><br /></strong></p>
+<p><strong> <span style="font-family: "><span style="font-family: "><span style="font-family: "> </span></span></span></strong></p>
+<p align="left"><strong><span style="color: #993366;">WHAT HOW MANY TREATMENTS DO I NEED?</span></strong></p>
+<p><strong> </strong><span style="font-family: "><span style="font-family: "> </span></span></p>
+<p align="left">The number of treatments differs from person to person, depending upon initial BMI and weight. As a rule, 1-2 pens– 3-6 weeks are necessary to successfully complete the treatment</p>
+<p align="left"> </p>
+<p><strong><span style="font-family: "><span style="font-family: "><span style="font-family: "> </span></span></span></strong></p>
+<p align="left"><strong><span style="color: #993366;">WHO IS SUITABLE FOR SKINNY SHOT?</span></strong></p>
+<p><strong> </strong><span style="font-family: "><span style="font-family: "> </span></span></p>
+<p align="left">Anyone from the age of 18 with none of the exclusion criterion</p>
+<p align="left"> </p>
+<p><strong><span style="font-family: "><span style="font-family: "><span style="font-family: ">
+<p align="left"><span style="color: #993366;">WHO IS UNSUITABLE FOR SKINNY SHOT?</span></p>
+</span></span></span></strong><span style="font-family: "><span style="font-family: ">
+<p align="left">Clients taking Diabetic and Thyroid medication</p>
+<p align="left">Pregnant and Breastfeeding Mums</p>
+<p align="left">Clients with eating disorders,Body Dysmorph,individuals suffering mental ill health</p>
+<p align="left">Clients with a BMI less than 20</p>
+<p align="left"> </p>
+</span></span><strong><span style="font-family: "><span style="font-family: "><span style="font-family: ">
+<p align="left"><span style="color: #993366;">HOW FAST WILL THE CLIENT SEE RESULTS?</span></p>
+</span></span></span></strong><span style="font-family: "><span style="font-family: ">
+<p align="left">3-6 weeks</p>
+<p align="left"> </p>
+</span></span><span style="font-family: "><span style="font-family: "><span style="font-family: ">
+<p style="font-weight: bold;" align="left"><span style="color: #993366;">WILL THE RESULTS LAST?</span></p>
+<p align="left"><span style="color: #993366;"> </span> A complete dietary and nutrient evaluation will help you maintain your weight loss goals</p>
+<p align="left"> </p>
+</span></span></span><span style="font-family: "><span style="font-family: ">
+<p align="left"><span style="color: #993366; font-weight: bold;">ARE THE TREATMENTS PAINFUL?</span></p>
+</span></span><span style="font-family: "><span style="font-family: ">
+<p align="left">No, virtually painless.</p>
+</span></span><strong><span style="font-family: "><span style="font-family: "><span style="font-family: ">
+<p align="left"><span style="font-weight: normal;">The Skinny Shot involves the injection placed just millimeters under the skin. Just a “drop” of solution is used at the injection site</span></p>
+</span></span></span></strong></p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<h5>Book an appointment with a £30 Deposit</h5>
+<p> </p>
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post"> <input type="hidden" name="business" value="carroningram@msn.com" /> <input type="hidden" name="cmd" value="_cart" /> <input type="hidden" name="item_name" value="SKINNY SHOT Appointment Deposit" /><input type="hidden" name="add" value="1" /><input type="hidden" name="shipping" value="0.00" /><input type="hidden" name="amount" value="30.00" /><input type="hidden" name="currency_code" value="GBP" /> <input type="hidden" name="lc" value="GB" /> <input type="hidden" name="mrb" value="YRDKF6S68Y7DS" /><input type="image" src="https://www.paypal.com/en_GB/i/btn/btn_cart_LG.gif" alt="PayPal - The safer, easier way to pay online" name="submit" /> <img src="https://www.paypal.com/en_GB/i/scr/pixel.gif" border="0" width="1" height="1" /> </form>
+<p> </p>
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post"> <input type="hidden" name="business" value="carroningram@msn.com" /> <input type="hidden" name="cmd" value="_cart" /> <input type="hidden" name="display" value="1" /> <input type="hidden" name="lc" value="GB" /> <input type="hidden" name="mrb" value="YRDKF6S68Y7DS" /> <input type="image" src="https://www.paypal.com/en_GB/i/btn/btn_viewcart_LG.gif" alt="PayPal - The safer, easier way to pay online" name="submit" /> <img src="https://www.paypal.com/en_GB/i/scr/pixel.gif" border="0" width="1" height="1" /></form>		
+		
+	</div>
+	
+</div>													</div>
+					
+																		
+												</div>
+											</div>
+											<!-- content end -->
+					
+										</div>
+										<!-- mainmiddle end -->
+					
+													
+									</div>
+								</div>
+								<!-- main end -->
+						
+								</div>
+							</div>
+						</div>
+						<!-- middle end -->
+						
+							
+					</div>
+				</div>
+	
+				<div id="footer">
+					<div class="footer-1">
+						<div class="footer-2">
+							<a class="anchor" href="#page"></a>
+							<div style="margin-top: 9px">Validates to <a href="http://validator.w3.org/check?uri=http://demo.yootheme.com/jun09" target="_blank">XHTML 1.0</a> and <a href="http://jigsaw.w3.org/css-validator/validator?uri=http://demo.yootheme.com/jun09" target="_blank">CSS 2.1</a><br />
+<div style="margin-top: 9px"><span style="font-family: Calibri, sans-serif;"><span style="font-size: 14.6667px; line-height: 15.4px;">Rejuvenate takes Copyright very seriously. © 2010.</span></span></div>
+</div>													</div>
+					</div>
+				</div>
+				<!-- footer end -->
+				
+			</div>
+		</div>
+	</div>
+	
+</body>
+</html>
